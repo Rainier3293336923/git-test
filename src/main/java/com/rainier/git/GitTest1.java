@@ -17,5 +17,8 @@ public class GitTest1 {
         System.out.println("push  code1");
         System.out.println("push  code2");
         System.out.println("push  code3");
+
+
+        System.out.println("推送远程库");
     }
 }
