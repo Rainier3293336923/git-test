@@ -20,5 +20,7 @@ public class GitTest1 {
 
 
         System.out.println("推送远程库");
+        
+        System.out.println("拉取代码   pull ！");
     }
 }
